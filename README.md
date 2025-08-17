@@ -1,5 +1,5 @@
 # uncle_feistel
-Simple java library for implement feistel networks of any dimension.
+Simple java library for implementing feistel networks of any dimension.
 This is a study project and *by no means production-ready*: performance is lacking and some operations are not in place (mostly due to using records for brevity to define the models).
 
 ## Usage
